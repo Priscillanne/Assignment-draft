@@ -18,7 +18,7 @@ def view_all_task():
     for i in range (1,len(task_list)+1):
         reference_task = task_list[i-1]
         print("{0}. {1} - {2}".format(i, reference_task.get("name"), reference_task.get("status")))
-
+&dk 
 #remove object from list
 def delete_task():
         user_input = input("Task number to delete: ")
