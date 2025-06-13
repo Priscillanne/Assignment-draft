@@ -6,3 +6,5 @@ Group member
 3. Suren
 4. Lisa
 5. Priscilla
+
+Here is the explanantion of how iteration 2 works 
